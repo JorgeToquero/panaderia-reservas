@@ -76,6 +76,14 @@ text
 
 text
 
+## 📸 Capturas de la aplicación
+
+### Vista del Catálogo
+![Catálogo](img/catalogo.png)
+
+### Panel de Administración
+![Panel de Administración](img/Panel-administracion.png)
+
 ---
 **Jorge Toquero** - DAW Motril 2026
 **Última actualización: 20/02/2026**
